@@ -1,3 +1,3 @@
 # Oubliette
-Text based roguelike.
-To play run main.py.
+Text based roguelike.  
+To play run engine.py.
